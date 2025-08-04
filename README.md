@@ -8,5 +8,10 @@ Prerequisites:
 
 Java application code hosted on a Git repository
 <ul>
-  <li></li>
+  <li>Java application code hosted on a Git repository</li>
+  <li>Jenkins server</li>
+  <li>Kubernetes cluster</li>
+  <li>Helm package manager</li>
+  <li>Argo CD</li>
+  
 </ul>
