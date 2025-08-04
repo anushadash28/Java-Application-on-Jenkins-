@@ -5,8 +5,6 @@
 Here are the step-by-step details to set up an end-to-end Jenkins pipeline for a Java application using SonarQube, Argo CD, Helm, and Kubernetes:
 
 Prerequisites:
-
-Java application code hosted on a Git repository
 <ul>
   <li>Java application code hosted on a Git repository</li>
   <li>Jenkins server</li>
