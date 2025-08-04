@@ -15,7 +15,7 @@ Prerequisites:
 </ul>
 
 Steps
-'''1. Install the necessary Jenkins plugins:
+```1. Install the necessary Jenkins plugins:
    1.1 Git plugin
    1.2 Maven Integration plugin
    1.3 Pipeline plugin
@@ -58,4 +58,4 @@ Steps
 7. Run the Jenkins pipeline:
    7.1 Trigger the Jenkins pipeline to start the CI/CD process for the Java application.
    7.2 Monitor the pipeline stages and fix any issues that arise.
-   '''
+```
